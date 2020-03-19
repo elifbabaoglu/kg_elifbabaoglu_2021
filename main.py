@@ -1,4 +1,4 @@
-def has_one_one_mapping(s1, s2):
+def has_mapping(s1, s2):
     if len(s1) <= len(s2):
         d = {}
         for i in range(len(s1)):
